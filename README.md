@@ -1,5 +1,5 @@
 # tutorials
 
-[git](./git.md)
-[UNIX](./UNIX.md)
-[VI](./vi.md)
+* [git](./git.md) 
+* [UNIX](./UNIX.md) 
+* [VI](./vi.md) 
