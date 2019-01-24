@@ -101,7 +101,7 @@ After you entered the editing mode, you can move by using arrow keys, delete pre
 ### To save and quit a file  
 Use `ZZ` command to save edits and quit (note that ZZ is capitalized; vi commands are case sensitive). However, it is very common in `vi` to use commands from another editor, called `ex` (in fact, vi is the visual for that editor!). To save and quit a file using the `ex` command, you type `:wq` or `:x`. You type `:q!` to exit the editor without saving the file.
 
-There is much-much more you can do with `vi`. Here is a short [tutorial](.
+There is much-much more you can do with `vi`. Here is a short [tutorial](https://data-skills.github.io/tutorials/UNIX.pdf).
 
 ## V) A short tutorial to play with Unix commands:
 
